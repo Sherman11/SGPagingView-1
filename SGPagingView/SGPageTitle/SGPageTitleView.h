@@ -1,6 +1,6 @@
 //
 //  SGPageTitleView.h
-//  SGPagingViewExample
+//  SGPagingView
 //
 //  Created by kingsic on 17/4/10.
 //  Copyright © 2017年 kingsic. All rights reserved.
